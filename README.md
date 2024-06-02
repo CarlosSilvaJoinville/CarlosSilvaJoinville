@@ -1,3 +1,11 @@
+<h1 align="left">Sobre</h1>
+
+###
+
+<p align="left">Desenvolvedor Fullstack<br>Professor de Desenvolvimento de Sistemas</p>
+
+###
+
 <h2 align="left">Tecnologias</h2>
 
 ###
@@ -26,6 +34,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
 </div>
 
 ###
@@ -42,6 +52,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=CarlosSilvaJoinville&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1&custom_title=Estat%C3%ADsticas" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosSilvaJoinville&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2&custom_title=Linguagens" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosSilvaJoinville&radius=16&theme=react&area=true&order=5&custom_title=Contribui%C3%A7%C3%A3o" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/carlos-roberto-da-silva-filho-3809b355/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="carlos.silva.joinville@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
